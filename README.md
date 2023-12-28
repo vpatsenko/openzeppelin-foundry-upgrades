@@ -16,7 +16,7 @@ forge install OpenZeppelin/openzeppelin-contracts-upgradeable
 Set the following in `remappings.txt`, replacing any previous definitions of these remappings:
 ```
 @openzeppelin/contracts/=lib/openzeppelin-contracts-upgradeable/lib/openzeppelin-contracts/contracts/
-@openzeppelin/contracts-upgradeable/=lib/openzeppelin-contracts-upgradeable/contracts/
+@openzeppelin/contracts-upgradeable/=lib/openzeppelin-foundry-upgrades/src/
 ```
 
 > **Note**
